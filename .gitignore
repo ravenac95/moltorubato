@@ -1,0 +1,19 @@
+# packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.tar
+*.rar
+*.zip
+
+# Mac Related
+.DS_Store?
+.DS_Store
+
+# vim files
+.*.sw*
+
+# Sphinx
+docs/_build
